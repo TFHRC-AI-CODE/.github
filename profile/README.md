@@ -1,4 +1,4 @@
-# Welcome to the Collaborative Highway Artificial Intelligence (CHAI) GitHub Community
+# Welcome to the Collaborative Open Development Environment (CODE) GitHub Community
 
 A collaborative space for advancing the responsible and practical use of AI in highway transportation.
 
