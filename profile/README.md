@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="CODE Header Banner" width="100%">
+</p>
+
 # Welcome to the Collaborative Open Development Environment (CODE) GitHub Community
 
 A collaborative space for advancing the responsible and practical use of AI in highway transportation.
