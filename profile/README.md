@@ -8,6 +8,8 @@ A collaborative space for advancing the responsible and practical use of AI in h
 
 The CODE brings together FHWA, State and local transportation agencies, researchers, academia, industry, and other transportation stakeholders to share knowledge, tools, code, data, and lessons learned. Our goal is to move AI research and innovation from individual projects into reusable, practical solutions that can benefit the broader transportation community.
 
+Please see the <a href="https://tfhrc-ai-code.github.io/AI-CODE/" target="_blank" rel="noopener noreferrer">user guide</a>.
+
 ---
 
 ## Our Goal
