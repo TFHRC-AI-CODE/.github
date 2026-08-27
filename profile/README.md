@@ -70,4 +70,4 @@ Unless otherwise noted, software, code, models, and technical contributions prov
 
 By contributing to the Collaborative Open Development Environment (CODE), you agree that your contributions will be licensed under the terms of the Apache 2.0 License.
 
-For full terms and conditions, please see the [LICENSE](./LICENSE) file in the root of this repository.
+For full terms and conditions, please see the [LICENSE](https://highways.dot.gov/ai-coehttps://github.com/TFHRC-AI-CODE/AI-CODE/blob/main/LICENSE) file in the root of this repository.
