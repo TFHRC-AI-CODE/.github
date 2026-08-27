@@ -49,14 +49,6 @@ Whether you have a fully developed AI tool or an early-stage research prototype,
 
 ---
 
-## License
-
-Unless otherwise noted, code and documentation created by U.S. Federal Government employees in this repository are in the public domain within the United States under 17 U.S.C. § 105.
-
-All community contributions submitted to this repository are released under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) (or [MIT License](https://opensource.org/licenses/MIT)), ensuring that shared tools, code, and datasets remain freely open, reusable, and accessible to all transportation stakeholders.
-
-For more information, please see the [`LICENSE`](./LICENSE) file in this repository.
-
 ## Let's Build Together
 
 Our vision is to create a growing community where transportation professionals can find, share, adapt, and improve AI solutions for real-world highway challenges.
@@ -65,3 +57,13 @@ Our vision is to create a growing community where transportation professionals c
 > Join us, contribute, and collaborate.
 
 **Share what you have. Build on what others have created. Together, accelerate AI innovation for transportation.**
+
+---
+
+## License
+
+Unless otherwise noted, code and documentation created by U.S. Federal Government employees in this repository are in the public domain within the United States under 17 U.S.C. § 105.
+
+All community contributions submitted to this repository are released under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) (or [MIT License](https://opensource.org/licenses/MIT)), ensuring that shared tools, code, and datasets remain freely open, reusable, and accessible to all transportation stakeholders.
+
+For more information, please see the [`LICENSE`](./LICENSE) file in this repository.
