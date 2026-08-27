@@ -10,7 +10,7 @@ The CODE brings together FHWA, State and local transportation agencies, research
 
 Please see the <a href="https://tfhrc-ai-code.github.io/AI-CODE/" target="_blank" rel="noopener noreferrer">user guide</a>.
 
-Learn more about [Federal Highway Administration's (FHWA's) Artificial Intelligence (AI) Deployment Center of Excellence (COE)](https://highways.dot.gov/ai-coe)
+Learn more about [FHWA's AI Deployment Center of Excellence (COE)](https://highways.dot.gov/ai-coe)
 
 ---
 
