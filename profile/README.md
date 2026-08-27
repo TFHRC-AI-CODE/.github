@@ -62,8 +62,12 @@ Our vision is to create a growing community where transportation professionals c
 
 ## License
 
-Unless otherwise noted, code and documentation created by U.S. Federal Government employees in this repository are in the public domain within the United States under 17 U.S.C. § 105.
+### U.S. Government Work
+Works produced by U.S. Federal Government are in the public domain within the United States pursuant to 17 U.S.C. § 105.
 
-All community contributions submitted to this repository are released under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) (or [MIT License](https://opensource.org/licenses/MIT)), ensuring that shared tools, code, and datasets remain freely open, reusable, and accessible to all transportation stakeholders.
+### Community Contributions
+Unless otherwise noted, software, code, models, and technical contributions provided to this repository by non-federal contributors are made available under the Apache License, Version 2.0.
 
-For more information, please see the [`LICENSE`](./LICENSE) file in this repository.
+By contributing to the Collaborative Open Development Environment (CODE), you agree that your contributions will be licensed under the terms of the Apache 2.0 License.
+
+For full terms and conditions, please see the [LICENSE](./LICENSE) file in the root of this repository.
