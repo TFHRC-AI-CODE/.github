@@ -16,13 +16,13 @@ Learn more about [FHWA's AI Deployment Center of Excellence (COE)](https://highw
 
 ## Our Goal
 
-The transportation community is developing innovative AI applications for areas such as infrastructure inspection and condition assessment, asset management, construction, safety, traffic operations, data analysis, and decision support. However, valuable code, datasets, models, and lessons learned are often developed independently and can be difficult for others to find, access, or reuse.
+The transportation community is developing innovative AI applications for areas such as infrastructure inspection/condition assessment, asset management, construction, safety, traffic operations, data analysis, and decision support. However, valuable resources such as code, datasets, models, and lessons learned are often developed independently and can be difficult for others to find, access, reuse, or adapt.
 
-The CHAI aims to help address this gap by providing a shared, open, and collaborative environment where transportation stakeholders can:
+The CODE aims to help address this gap by providing a shared, open, and collaborative environment where transportation stakeholders can:
 
 * **Share** AI code, tools, models, datasets, and resources.
 * **Collaborate** on research, development, and implementation challenges.
-* **Reuse and build** upon existing work rather than starting from scratch.
+* **Reuse and adapt** existing work rather than starting from scratch.
 * **Learn** from each other's successes and lessons learned.
 * **Develop** common approaches, standards, and best practices for AI in transportation.
 * **Accelerate** the transition of promising AI research into practical transportation applications.
