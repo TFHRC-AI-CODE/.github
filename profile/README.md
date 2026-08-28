@@ -4,7 +4,7 @@
 
 # Welcome to the Collaborative Open Development Environment (CODE) GitHub Community
 
-A collaborative space for advancing the responsible and practical use of AI in highway transportation.
+A collaborative space for advancing the responsible and practical use of AI-enhanced tools in highway transportation.
 
 The CODE brings together FHWA, State and local transportation agencies, researchers, academia, industry, and other transportation stakeholders to share knowledge, tools, code, data, and lessons learned. Our goal is to move AI research and innovation from individual projects into reusable, practical solutions that can benefit the broader transportation community.
 
