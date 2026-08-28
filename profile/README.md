@@ -42,6 +42,7 @@ Whether you have a fully developed AI tool or an early-stage research prototype,
 * Algorithms
 * Tools
 * Applications
+* Benchmarks
 * Examples
 * Documentation
 * Research Prototypes
